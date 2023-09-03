@@ -1,0 +1,28 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px 18px;
+}
+
+.black {
+	background-color: black;
+}
+
+.clothes {
+	background-color: darkblue;
+}
+
+.light {
+	background-color: blue;
+}
+
+.hair {
+	background-color: white;
+}
+
+.mouth {
+	background-color: pink;
+}
+
+.skin {
+	background-color: #F5F5DC;
+}
